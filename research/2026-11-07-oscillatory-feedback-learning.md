@@ -175,7 +175,7 @@ The reported direction agrees, while the match is imperfect and worsens at the l
 1. The exact frozen prime-ratio rule, target value, floor value, initial state, random seed or deterministic run identity, and raw results are not in the handover excerpt.
 2. The determinant result is local to a positive equilibrium of the constant-\(a\), floor-inactive map. The actual system uses a changing ratio and can activate the floor.
 3. Unit-modulus eigenvalues describe the linearized map near that equilibrium. They do not by themselves prove long-term nonlinear behavior, an invariant, or oscillation as a necessary condition for learning.
-4. The intervention reports one trajectory per rate in the excerpt, with no run-level uncertainty or independent reproduction.
+4. The source excerpt gives one reported summary row per learning rate but does not state the replicate count, run-level uncertainty, or any independent reproduction.
 5. No literature review or independent mathematical review is included. No novelty, priority, or proof claim is made.
 
 ## Provenance and record boundary
